@@ -1,23 +1,25 @@
-# SentinelRecon 🔥
+# 🔥 SentinelRecon
 
-أداة فحص أمني واستطلاع (Reconnaissance Tool) مطورة بلغة Python، مخصصة لجمع المعلومات وتحليل الأهداف بشكل منظم.
+A powerful Python-based reconnaissance tool for cybersecurity professionals.
 
-## ⚡ المميزات
+---
+
+## 🚀 Features
 
 - 🔍 WHOIS Lookup
 - 🌐 DNS Enumeration
 - 🛣️ Traceroute
-- 🔓 Port Scanning
-- 🔧 Service Detection
+- 🔒 Port Scanning
+- 🧠 Service Detection
 - 🌍 Web Server Detection
 - 📡 UDP Scan
 - ⚠️ Vulnerability Scan (Nmap Scripts)
-- 🔐 SSL/TLS Analysis
-- 📍 IP Information
 
-## 🚀 طريقة التشغيل
+---
+
+## ⚙️ Installation
 
 ```bash
-git clone https://github.com/USERNAME/my-security-tool.git
+git clone https://github.com/benahmed-sentinel/my-security-tool.git
 cd my-security-tool
-python3 security_tool.py
+python3 security_tool_v2.py
