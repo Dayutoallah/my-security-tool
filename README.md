@@ -26,5 +26,11 @@ A powerful Python-based reconnaissance and security scanning tool.
 
 ## 🚀 Usage
 
+Run the tool using:
+
 ```bash
-python security_tool.py
+python security_tool.py example.com
+```
+
+```bash
+python security_tool.py example.com
